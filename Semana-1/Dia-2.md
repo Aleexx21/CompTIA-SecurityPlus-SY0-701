@@ -1,0 +1,12 @@
+## Día 2 - Vulnerabilidades, amenazas y principios de seguridad
+- **Tema principal:** Vulnerabilidades, amenazas y medidas básicas de protección.  
+- **Conceptos aprendidos:**
+  - **Vulnerabilidades y amenazas:** breve explicación y ejemplos en la vida diaria.  
+  - **Confidencialidad y protección de datos:**
+    - Métodos básicos de cifrado.  
+    - Controles de acceso.  
+    - Enmascaramiento de datos.  
+    - Medidas de seguridad física.  
+    - Formación y concienciación de usuarios.  
+  - **Nota clave:** La confidencialidad se relaciona directamente con **la encriptación de la información en informática**.  
+- **Nota personal:** Comenzar a relacionar conceptos teóricos con ejemplos prácticos ayuda a fijarlos mejor.
